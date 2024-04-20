@@ -1,0 +1,92 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 100000000 (0x5f5e100)
+    Signature Algorithm: sha512WithRSAEncryption
+        Issuer: C=CZ, O=První certifikaèní autorita, a.s., CN=I.CA Root CA/RSA, serialNumber=NTRCZ-26439395
+        Validity
+            Not Before: May 27 12:20:00 2015 GMT
+            Not After : May 27 12:20:00 2040 GMT
+        Subject: C=CZ, O=První certifikaèní autorita, a.s., CN=I.CA Root CA/RSA, serialNumber=NTRCZ-26439395
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:aa:3f:55:b5:89:af:76:14:06:2a:64:26:94:38:
+                    0f:5f:f6:dc:04:6f:31:45:f5:0a:fd:3b:7f:9b:72:
+                    6f:f8:40:7c:fe:5d:fd:34:99:05:38:94:49:ba:b1:
+                    f0:bd:f8:99:5c:c0:51:fa:aa:0d:fb:e6:71:15:85:
+                    63:11:2a:77:06:91:92:06:88:b3:fc:14:e1:99:46:
+                    b4:29:82:ae:84:83:ee:b5:26:87:6e:f8:8b:55:44:
+                    9d:40:d8:ff:2a:5a:aa:e8:7f:d2:65:e1:14:47:c2:
+                    7c:31:fd:75:61:0a:1b:8c:80:4a:9e:b4:e2:2e:14:
+                    47:31:ee:bc:05:51:ae:a6:7e:cf:11:b8:c5:48:bd:
+                    05:54:c2:84:e4:a7:68:6b:f8:b8:fa:7e:28:c9:b9:
+                    cf:e4:21:4f:65:c9:88:68:a0:38:d9:75:a5:11:3b:
+                    4c:1c:6e:4b:1e:d4:86:6c:c1:ad:05:47:d3:2c:94:
+                    0d:cc:87:2d:1a:2d:c3:d6:cc:de:84:fe:ec:6b:c0:
+                    e1:23:13:a1:d3:9c:18:7e:e0:72:d7:5c:55:bc:4c:
+                    b3:40:31:1b:9c:40:cd:9a:eb:80:0e:71:ae:d7:62:
+                    6e:5a:16:4f:1f:f6:65:45:d1:9f:7a:85:41:19:c2:
+                    7a:3a:ce:21:92:e4:94:70:4c:bb:a8:41:c6:c4:bb:
+                    35:cd:f5:3a:9e:63:a9:8d:a0:6a:d1:20:44:aa:2a:
+                    b6:48:a5:72:c3:ce:9e:e4:58:48:47:09:7f:02:41:
+                    f3:0d:1c:6d:09:78:f0:d7:14:d1:a0:55:fc:11:d6:
+                    5a:1a:00:79:e5:3b:e6:08:cb:52:9e:a4:09:ab:6b:
+                    e7:6c:9c:2a:2f:22:7d:fb:b9:50:b2:de:50:d3:2f:
+                    0c:72:b9:d6:b3:b7:b3:08:e6:eb:7b:ac:f4:b4:c5:
+                    f6:c1:32:1f:a7:19:21:f5:dc:5e:37:aa:c7:1f:53:
+                    9b:43:3e:e6:9e:9f:da:0d:d7:56:a2:0f:53:69:2d:
+                    55:bf:eb:86:78:11:bf:a6:d7:5a:4d:f3:0e:93:73:
+                    ea:ff:0e:d0:e7:8f:f1:c8:b3:f0:d8:18:73:6c:a5:
+                    72:88:f1:70:4c:47:54:b6:9b:5a:d1:bc:26:37:8d:
+                    18:df:9b:6b:2e:db:0b:25:b3:8a:b2:e3:ad:06:5c:
+                    6d:bb:7d:17:03:07:01:8a:30:97:89:74:6d:4a:94:
+                    77:2e:eb:ee:cf:b0:1e:b5:ea:76:f4:b5:14:38:95:
+                    d7:d5:d9:2f:3f:b2:a4:26:cc:4d:a3:5c:8d:09:f3:
+                    5e:0c:85:32:ce:56:6c:02:08:f1:4b:a3:ab:bf:c8:
+                    54:a0:05:85:74:e4:75:1d:7a:bc:9c:3b:60:3d:6a:
+                    fd:19:91
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Subject Key Identifier: 
+                76:B9:03:48:FB:D5:18:A1:A1:37:A0:ED:CC:68:82:4C:52:34:36:0D
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                  User Notice:
+                    Explicit Text: Tento kvalifikovany systemovy certifikat byl vydan podle zakona 227/2000 Sb. v platnem zneni/This qualified system certificate was issued according to Act No. 227/2000 Coll.
+
+    Signature Algorithm: sha512WithRSAEncryption
+         19:54:02:25:83:db:22:96:8b:1d:95:9e:99:db:34:ce:93:d0:
+         1f:2e:7b:5c:60:24:6a:0c:d7:85:44:78:1f:1c:49:f2:14:f8:
+         83:54:19:a6:9d:32:66:b8:23:a6:3b:86:2a:9f:36:fc:17:fc:
+         50:0f:60:c6:37:fd:24:a8:f7:79:a7:8e:bf:d8:07:15:54:5e:
+         52:0c:be:f8:a6:d8:c8:41:44:f1:f6:13:dc:83:19:5b:af:dd:
+         64:f7:33:16:87:0f:15:5a:f1:64:bc:d4:e7:55:3f:32:38:89:
+         9a:f3:cc:48:c5:6c:31:71:92:9a:26:17:c2:7c:47:02:6d:35:
+         27:9f:f3:1a:e1:aa:1d:0d:74:11:a9:93:7c:41:a8:6f:bb:8e:
+         9c:c5:01:e4:73:f6:ba:50:2e:e6:10:d4:bc:6f:13:9a:38:b9:
+         69:46:a5:06:d6:f2:4c:6c:37:ab:3c:f8:db:1a:c6:55:f0:c8:
+         f8:1d:21:6e:2f:00:6a:b1:e2:6d:5a:04:2d:7d:dd:09:4f:f6:
+         ef:14:2f:c0:12:ea:09:19:2b:1a:ca:a0:71:9b:b1:3a:32:bc:
+         ff:43:18:f3:7d:2f:f5:2e:88:e9:51:b6:f1:49:90:4c:ff:26:
+         c7:c3:59:dd:74:5f:c1:50:5d:38:5c:9d:68:55:69:6a:b4:40:
+         77:c9:5f:32:29:48:54:93:c1:b3:21:23:76:a1:55:30:69:23:
+         3f:31:49:c4:a1:cd:3b:76:59:95:5a:82:b4:ad:71:b5:be:a6:
+         91:cc:80:15:4a:2f:ce:94:ae:18:55:49:75:20:44:b8:f3:01:
+         9b:c1:78:2c:8e:10:4c:a7:64:ad:ad:3a:eb:4c:1d:56:2e:7f:
+         94:d4:1e:d0:0a:d5:c9:54:81:0e:1e:fe:f7:94:f9:61:3a:3f:
+         35:ee:d3:60:c9:fb:48:b2:6e:c2:d9:be:7a:6e:98:05:70:00:
+         a3:d1:17:c7:c6:34:af:6c:f5:4d:8f:5d:52:0c:dd:80:9b:7a:
+         6d:e7:98:e3:39:85:5c:3f:8b:cc:44:a2:40:36:32:93:12:56:
+         90:02:9e:3e:59:68:02:1f:56:88:1e:af:c1:fe:0f:7b:55:8d:
+         97:d9:bb:a6:93:47:ba:7c:f8:47:b6:39:d7:8c:f2:40:6c:87:
+         9c:0c:fe:2d:dd:dc:71:fc:0e:91:08:a4:43:3d:8a:57:dd:dd:
+         07:eb:a7:97:51:d0:ba:84:99:ad:8b:79:fe:c9:04:90:83:13:
+         2b:e9:97:0d:65:89:f2:11:2d:37:8e:4b:b8:bb:d2:7a:39:2a:
+         c5:dc:d0:5d:0d:dd:04:27:98:9f:58:fd:8e:86:bb:05:7f:f0:
+         ed:37:92:90:dd:9c:bd:fc
